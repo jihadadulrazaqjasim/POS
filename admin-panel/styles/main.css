@@ -1,0 +1,22 @@
+.banner {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+
+html, body {
+height:100%;
+} 
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: #333;
+    line-height: 30px;
+    text-align: center;
+    background-color:#fff;
+}
